@@ -119,7 +119,7 @@ impactcent/
 ## 👥 Team ImpactCent x OLYM3 AI Hub  
 - **Mission**: Enable global, transparent, and viral giving — one cent at a time.  
 - **Flagship Cause**: [OLYM3 AI Hub](https://aihub.olym3.com)  
-- **Built For**: [Vietnam Build Week – Base Track](https://dorahacks.io)  
+- **Built For**: [Vietnam Build Week – Base Track](https://dorahacks.io/hackathon/vnbw/tracks)  
 - **Prize Goal**: 🏆 $2,000 Top Prize  
 
 ---
