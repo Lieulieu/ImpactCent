@@ -125,6 +125,3 @@ impactcent/
 ---
 
 💡 *ImpactCent: Every Cent Creates Change on Base.*  
-```
-
----
